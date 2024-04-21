@@ -1,0 +1,56 @@
+.planet {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+}
+
+.mars {
+    background: radial-gradient(#f37335, #ff6347);
+}
+
+.jupiter {
+    background: radial-gradient(#e0e0e0, #c0c0c0);
+}
+
+.saturn {
+    background: radial-gradient(#ffd700, #ffbf00);
+}
+
+.experiment {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+}
+
+.experiment h2 {
+    position: relative;
+    z-index: 1;
+}
+
+.status {
+    margin-top: 10px;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
