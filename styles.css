@@ -23,7 +23,7 @@ main {
     align-items: flex-start;
     flex-wrap: wrap;
     padding: 0 20px;
-    color: #655370;
+    background-color: #655370;
 }
 
 .experiment {
