@@ -74,12 +74,12 @@ main {
 .experiment h2 {
     margin: 0;
     font-size: 1.5rem;
-    color: #333;
+    color: #fff;
 }
 
 .status {
     margin-top: 10px;
-    color: #666;
+    color: #fff;
     font-size: 0.9rem;
 }
 
