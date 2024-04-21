@@ -45,15 +45,30 @@ main {
 }
 
 .mars {
-    background: radial-gradient(#f37335, #ff6347);
+    /*
+    * Created with https://www.css-gradient.com
+    * Gradient link: https://www.css-gradient.com/?c1=a57978&c2=fb6416&gt=l&gd=dbb
+    */
+    background: #A57978;
+    background: linear-gradient(0deg, #A57978, #FB6416);
 }
 
 .jupiter {
-    background: radial-gradient(#e0e0e0, #c0c0c0);
+     /*
+    * Created with https://www.css-gradient.com
+    *  Gradient link: https://www.css-gradient.com/?c1=c19369&c2=c9b89d&gt=r&gd=dbb
+    */
+    background: #C19369;
+    background: radial-gradient(at center bottom, #C19369, #C9B89D);
 }
 
 .saturn {
-    background: radial-gradient(#ffd700, #ffbf00);
+    /*
+    * Created with https://www.css-gradient.com
+    * Gradient link: https://www.css-gradient.com/?c1=dddfa8&c2=a29176&gt=l&gd=dbb
+    */
+    background: #DDDFA8;
+    background: linear-gradient(0deg, #DDDFA8, #A29176);
 }
 
 .experiment h2 {
